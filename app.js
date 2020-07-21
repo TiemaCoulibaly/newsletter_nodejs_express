@@ -77,10 +77,5 @@ app.listen(process.env.PORT || 3000, function () {
   console.log("The server started !");
 });
 
-//api key mailchimp
-//6c6a34e700280f7dd822c4a4e484729d-us10
-
-//list Id
-//7147f196ed
 
 //https://floating-chamber-18424.herokuapp.com/
